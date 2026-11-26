@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # "how to use?" 안내 숨김
-    education: True # 학력을 사이드바에 표시
+    education: False # 학력을 본문에 표시
 
     # Profile information
     name: Anho Choi
@@ -47,8 +47,8 @@ career-profile:
 
 education:
     - degree: B.S. in Electrical Engineering
-      university: POSTECH (Pohang University of Science and Technology)
-      time: 2021 - Jan. 2027 (expected)
+      university: POSTECH (Pohang University of Science and Technology), Pohang, South Korea
+      time: Mar. 2021 - Jan. 2027 (Expected)
       details: |
 
 experiences:
