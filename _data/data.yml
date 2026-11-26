@@ -39,11 +39,7 @@ career-profile:
     title: Career Profile
     summary: |
       Undergraduate student in Electrical Engineering at POSTECH (expected
-      graduation: Jan. 2027), focusing on digital hardware design. Experienced
-      in RTL design and verification with Verilog, Cadence Xcelium, and Genus
-      synthesis (45 nm), including asynchronous (2-phase, Mousetrap-style)
-      circuits and low-power memory-access architectures. Completed a DRAM
-      design internship at SK hynix.
+      graduation: Jan. 2027), focusing on digital hardware design.
 
 education:
     - degree: B.S. in Electrical Engineering
