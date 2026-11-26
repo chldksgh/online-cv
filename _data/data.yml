@@ -68,23 +68,6 @@ experiences:
       details: |
         Worked on DRAM design verification, focusing on the refresh operation.
 
-projects:
-    title: Projects
-    intro: >
-      Selected hardware and AI projects.
-    assignments:
-      - title: "ORBIT: Pixel-to-World Mapper for a Rotating Event Camera"
-        link: "#"
-        tagline: "2026 AI Semiconductor Circuit Design Competition. Hardware mapper that accumulates rotating event-camera (960×720) events into a 2-D world memory with a tracking-window SRAM buffer; cut DRAM accesses by over 10× versus naive mapping (Verilog, Genus 45 nm, CACTI)."
-
-      - title: Multicast-Enabled Asynchronous NoC for Neuromorphic Computing
-        link: "#"
-        tagline: "2-phase Mousetrap-style asynchronous NoC with AER arbiter, verified in Xcelium and synthesized with Genus; native multicast used about 2.5–3.2× less energy than repeated unicast in gate-level power analysis."
-
-      - title: Vision-Based Automated Defect Inspection
-        link: "#"
-        tagline: "AI Solutions course team project: anomaly detection for manufactured products on the MVTec AD dataset."
-
 skills:
     title: Skills &amp; Proficiency
 
