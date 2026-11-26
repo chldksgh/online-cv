@@ -39,7 +39,8 @@ career-profile:
     title: Career Profile
     summary: |
       Undergraduate student in Electrical Engineering at POSTECH (expected
-      graduation: Jan. 2027), focusing on digital hardware design.
+      graduation: Jan. 2027), focusing on digital hardware design. Research
+      intern at CSDL, POSTECH since June 2026.
 
 education:
     - degree: B.S. in Electrical Engineering
@@ -48,11 +49,6 @@ education:
       details: |
 
 experiences:
-    - role: Research Intern
-      time: Jun. 2026 - Present
-      company: CSDL, POSTECH
-      details: |
-
     - role: DRAM Design Intern
       time: Jul. 2024 - Aug. 2024
       company: SK hynix, Volume Product Computing Design Team (Icheon)
