@@ -29,13 +29,10 @@ sidebar:
     pdf:
 
     interests:
-      - item: Digital / Asynchronous Circuit Design
+      - item: SoC Design
         link:
 
-      - item: Neuromorphic Hardware
-        link:
-
-      - item: Memory (DRAM) Systems
+      - item: Memory (DRAM Systems)
         link:
 
 career-profile:
