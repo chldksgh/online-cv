@@ -89,17 +89,11 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Verilog / RTL Design
-        level: 75%
-
-      - name: Cadence Xcelium (Verification)
-        level: 70%
-
-      - name: Cadence Genus (Synthesis &amp; Power)
-        level: 60%
+      - name: Verilog
+        level: 50%
 
       - name: Python
-        level: 65%
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
